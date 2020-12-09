@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Made with-Python-green.svg">
 </p> 
 
-Practicing for better understanding the concepts
+Practicing for better understanding the concepts. 
 Implementation of Data structures and Algorithms in C and Python
 
 ## Fibonacci series
