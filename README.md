@@ -1,4 +1,12 @@
 # DS-and-Algorithm
+
+<p align="center">
+<img src="https://img.shields.io/badge/license-MIT-blue.svg">
+<img src="https://img.shields.io/badge/Made with-C-green.svg">
+<img src="https://img.shields.io/badge/Made with-Python-green.svg">
+</p> 
+
+Practicing for better understanding the concepts
 Implementation of Data structures and Algorithms in C and Python
 
 ## Fibonacci series
