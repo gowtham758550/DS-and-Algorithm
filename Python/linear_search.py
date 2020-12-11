@@ -33,6 +33,7 @@ def main():
 	Easy way in python using "in" keyword
 	if search_element in list: return True
 	we can use index() inbuilt function to find the index of an element in list
+	"""
 			
 if __name__ == "__main__":
 	main()
