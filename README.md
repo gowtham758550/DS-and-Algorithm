@@ -9,10 +9,20 @@
 Practicing for better understanding the concepts. 
 Implementation of Data structures and Algorithms in C and Python
 
+## Searching Algorithms 
+### Linear search 
+Linear search is the simplest searching algorithm that searches for an element in a list in sequential order. 
+
+* [C implementation](https://github.com/gowtham758550/DS-and-Algorithm/blob/main/C/linear_search.c)
+* [Python implementation](https://github.com/gowtham758550/DS-and-Algorithm/blob/main/Python/linear_search.py)
+
+#### References 
+* [GeeksforGeeks](https://www.geeksforgeeks.org/linear-search/) 
+
 ## Fibonacci series
 The Fibonacci sequence is one of the most famous formulas in mathematics.
 
-Each number in the sequence is the sum of the two numbers that precede it. So, the sequence goes: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on. The mathematical equation describing it is Xn+2= Xn+1 + Xn
+Each number in the sequence is the sum of the two numbers that precede it.
 
 * [C implementation](https://github.com/gowtham758550/DS-and-Algorithm/blob/main/C/fibonacci.c)
 * [Python implementation](https://github.com/gowtham758550/DS-and-Algorithm/blob/main/Python/fibonacci.py)
